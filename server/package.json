@@ -1,0 +1,12 @@
+{
+  "name": "projectx",
+  "scripts": {
+    "start": "nodemon node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6"
+  }
+}
